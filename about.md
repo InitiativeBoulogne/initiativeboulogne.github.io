@@ -3,9 +3,12 @@ layout: page
 title: About
 permalink: /about/
 ---
+Ce petit site vise à recenser les "communs" boulonnais.
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Un commun est une ressource mise en partage et alimentée par une communauté qui met en place une gouvernance pour la gérer et la protéger. 
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+<iframe src="//slides.com/unisson/qu-est-ce-qu-un-bien-commun/embed" width="850" height="620" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+
+Tous les contenus sous licence libre CC BY-SA 4.0. Le site est développé en Angular (licence AGPL) disponible sur (Github)[http://github.com/unissonco/encommuns.org]
+Le site est basé sur une (API)[http://data.patapouf.org/api/v0/] ouverte de projets, d'un dataserveur développé en Django (licence AGPL) disponible sur (Github)[https://github.com/commonsdev/dataserver/]
