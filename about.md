@@ -1,3 +1,9 @@
+---
+layout: page
+title: About
+permalink: /about/
+---
+
 Ce petit site vise à recenser les "communs" du boulonnais.
 
 Un commun est une ressource mise en partage et alimentée par une communauté qui met en place une gouvernance pour la gérer et la protéger. 
